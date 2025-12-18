@@ -1,10 +1,9 @@
 # NLP Learning Material - Beginner-Friendly Course Notes
 
-> Transform raw Udemy instructor notes into production-quality educational resources
 
 ## 🎯 Overview
 
-This repository contains **comprehensive, beginner-friendly Jupyter notebooks** covering Natural Language Processing (NLP) fundamentals. Each notebook was originally taken during a Udemy course and has been professionally upgraded with:
+This repository contains **comprehensive, beginner-friendly Jupyter notebooks** covering Natural Language Processing (NLP) fundamentals. Each notebook was originally taken during a Udemy course and has been upgraded with:
 
 ✅ **Detailed explanations** - Not just *what*, but *why*  
 ✅ **Inline comments** - Every non-trivial code line explained  
