@@ -1,1 +1,6 @@
-"PROGRESS.md"  
+"PROGRESS.md
+*.py
+*.sh
+do_rebase.txt
+COMMIT_REWRITES.md
+MANUAL_COMMIT_REWRITE.md"  
